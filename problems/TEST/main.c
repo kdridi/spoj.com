@@ -1,8 +1,9 @@
-#include <stdio.h>
 #include <stdbool.h>
+#include <stdio.h>
 #include <stdlib.h>
 
-int main(void) {
+int main(void)
+{
     int value;
 
     while (true) {
